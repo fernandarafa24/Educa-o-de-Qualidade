@@ -1,0 +1,52 @@
+body{
+    background : url(Texto\ do\ seu\ parágrafo.jpg) no-repeat;
+    background-color: white;
+    
+}
+h1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 60px;
+}
+ol{
+    color: black;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 200px;
+}
+img{
+    width: 500px;
+    height: 300px;
+    margin-top: 30px;
+    
+}
+main{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 200px;
+    background-color: rgb(255, 255, 255);
+    
+}
+nav{
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    width: auto;
+}
+.lista{
+    color: black;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+section{
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
